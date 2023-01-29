@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vaibhavpatel1705
-- 👀 I’m interested in learning coding languages and Software Testing
-- 🌱 I’m currently learning MongoDB,NodeJS, ReactJS, Kotlin, PHP and ASP.NET
+- 👀 I’m interested in Software Development and Testing
+- 🌱 I’m currently learning new frameworks and methodologies to implement them in development and testing.
 - 💞️ I’m looking to collaborate with organisation that helps me grow in every aspect of my career in IT.
 - 
 - 📫 How to reach me ...
