@@ -8,7 +8,7 @@ Since I was introduced to smartphones, web technologies and cloud platforms, I w
 
 * 🌍  I'm based in Ontario, Canada
 * ✉️  You can contact me at [vibhspatel1999@gmail.com](mailto:vibhspatel1999@gmail.com)
-* 🧠  I'm learning Automated Software Testing
+
 
 ### Skills
 
