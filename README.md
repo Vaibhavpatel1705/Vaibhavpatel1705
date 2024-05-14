@@ -1,13 +1,12 @@
-Hi 👋 My name is Vaibhav Patel
+Hi 👋 My name is Vaibhav Chandrakant Patel
 ==============================
 
-Software Developer/ Web Developer
+Azure Data Engineer/ Database Administrator
 -------------
 
-Since I was introduced to smartphones, web technologies and cloud platforms, I was fascinated by the field of Information Technology and Computer Sciences. Later, with focus and dedication, I started searching about people responsible for creating such successful web applications and their roles to which I came across a word called "Software Developer" who is responsible for the development of software in each and every aspect. However, this passion carried me towards the IT field as I pursued my Bachelor of Science in Information Technology in India, Web Development in Canada. I have been learning new technologies, languages, and algorithms with the same passion. Moreover, I am passionate about learning new technologies and put into practice so that I can be a valuable asset to the organization.
+
 
 * 🌍  I'm based in Ontario, Canada
-* ✉️  You can contact me at [vibhspatel1999@gmail.com](mailto:vibhspatel1999@gmail.com)
 
 
 ### Skills
